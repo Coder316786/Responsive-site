@@ -28,7 +28,7 @@ html{
   overflow: hidden;
   
 }
-.video{
+/* .video{
   
   position: fixed;
   z-index: -1;
@@ -37,31 +37,22 @@ html{
   width: 100%;
   background-color: black;
   
-}
+} */
  
-/* .container {
-  width: 100%;
-  max-width: 100vw;
-  height: 90vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  overflow: hidden;
-  position: relative;
-}
+
 
 .video {
   position: fixed;
   z-index: -1;
   top: 70px;
-  left: 50%;
+  left: 49.9%;
   transform: translateX(-50%);
   min-width: 100%;
   min-height: 100%;
   background-color: black;
   object-fit: cover;
 }
- */
+ 
 
 
 
